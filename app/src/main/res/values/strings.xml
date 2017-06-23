@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaThread</string>
+    <string name="question_1">
+        要求写两个线程，一个线程将某个对象的某个成员变量的值加1，而另外一个线程将这个成员变量的值减1.使得该变量的值始终处于[0,2].初始值为0.
+    </string>
+    <string name="question_2">
+        建立三个线程，A线程打印10次A，B线程打印10次B,C线程打印10次C，要求线程同时运行，交替打印10次ABC
+    </string>
+</resources>
